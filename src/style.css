@@ -1,7 +1,13 @@
+@font-face {
+    font-family: inter;
+    src: url(/fonts/Inter-VariableFont_opsz\,wght.woff2);
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: inter;
 }
 
 html,
